@@ -1,0 +1,1 @@
+En este archivo se parte la rama en 2 y se va hacer un commit en ramaNueva
